@@ -1,8 +1,3 @@
-
-# Import necessary libraries (if any)
-# For example: import math
-
-# Define functions (if needed)
 def getGameMaxValues(game: str):
     # Function logic goes here
     colors = {
